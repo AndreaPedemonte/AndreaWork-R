@@ -8,3 +8,4 @@
   lockEnvironment(conf)
   assign('conf', conf, envir = globalenv())
 }
+
