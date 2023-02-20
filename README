@@ -1,0 +1,16 @@
+# How to set up snowflake connection with R on mac:
+1. https://community.snowflake.com/s/article/How-To-Connect-Snowflake-with-R-RStudio-using-RODBC-driver-on-Windows-MacOS-Linux
+1.1 Install iODBC from https://docs.snowflake.com/en/user-guide/odbc-mac
+1.2 Install ODBC manager -- optional -- http://www.odbcmanager.net/
+1.3 Install the ODBC driver from here https://developers.snowflake.com/odbc/
+1.4 Create a DSN using ODBC manager:
+1.4.1
+
+---- Troubleshoot ----
+Error https://stackoverflow.com/questions/66605995/connecting-r-to-snowflake-through-odbc
+Troubleshoot attempts:
+ - https://community.snowflake.com/s/question/0D5Do00000H1VhaKAF/how-to-connect-rstudio-to-snowflake-with-macbook-air-m2
+ - https://stackoverflow.com/questions/74405947/connect-to-snowflake-via-odbc-driver-on-mac-m1
+ - https://stackoverflow.com/questions/66605995/connecting-r-to-snowflake-through-odbc
+ - https://community.rstudio.com/t/connecting-rstudio-with-snowflake-on-macbook-m1/119608
+

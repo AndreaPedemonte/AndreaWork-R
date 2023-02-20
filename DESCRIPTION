@@ -1,0 +1,10 @@
+Package: AndreaWork
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Andrea
+Maintainer: andrea.pedemonte@hometogo.com
+Description: R helpers for ad-hoc analysis.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
